@@ -204,7 +204,7 @@ __BEGIN_DECLS
 #define ADC_BATTERY_CURRENT_CHANNEL     1
 #define ADC_BATTERY1_VOLTAGE_CHANNEL    2
 #define ADC_BATTERY1_CURRENT_CHANNEL    3
-#define ADC_5V_RAIL_SENSE               4 /* NOT to FMUv5 spec on test HW ONLY - delete this on when running on FMUv5 spec-ed HW */
+#define ADC_5V_RAIL_SENSE               6
 #define ADC_RC_RSSI_CHANNEL             8
 #define ADC_SCALED_V5                   10
 #define ADC_SCALED_VDD_3V3_SENSORS      11
